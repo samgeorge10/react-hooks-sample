@@ -1,0 +1,23 @@
+{
+  "name": "react-hooks-sample",
+  "version": "1.0.0",
+  "description": "This is a sample application developed with react hooks",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samgeorge10/react-hooks-sample.git"
+  },
+  "author": "Sam George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samgeorge10/react-hooks-sample/issues"
+  },
+  "homepage": "https://github.com/samgeorge10/react-hooks-sample#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "react-application",
+    "react-hooks"
+  ]
+}
